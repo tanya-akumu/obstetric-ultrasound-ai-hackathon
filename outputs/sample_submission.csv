@@ -1,0 +1,6 @@
+patient_id,site,predicted_GA
+patient_001,site-a,52.96
+patient_002,site-b,40.43
+patient_003,site-a,17.99
+patient_004,site-c,52.61
+patient_005,site-b,39.18

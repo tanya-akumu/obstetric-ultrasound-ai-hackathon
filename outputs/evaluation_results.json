@@ -1,0 +1,27 @@
+{
+  "final_score": 108.74269999999999,
+  "overall_mae": 133.166,
+  "fairness_penalty": 15.526500000000002,
+  "site_disparity": 51.75500000000001,
+  "max_site_mae": 149.345,
+  "min_site_mae": 97.58999999999999,
+  "site_mae_std": 21.790898074399987,
+  "coefficient_of_variation": 0.16363710011864882,
+  "penalty_weight": 0.3,
+  "num_predictions": 5,
+  "num_sites": 3,
+  "per_site_metrics": {
+    "site-a": {
+      "mae": 134.775,
+      "count": 2
+    },
+    "site-b": {
+      "mae": 149.345,
+      "count": 2
+    },
+    "site-c": {
+      "mae": 97.58999999999999,
+      "count": 1
+    }
+  }
+}

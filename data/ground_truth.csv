@@ -1,0 +1,6 @@
+patient_id,site,gestational_age_days
+patient_001,site-a,245.5
+patient_002,site-b,198.3
+patient_003,site-a,95.0
+patient_004,site-c,150.2
+patient_005,site-b,180.0
